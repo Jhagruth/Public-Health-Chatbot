@@ -1,4 +1,4 @@
-# SwasthAI - Chatbot Frontend
+# SwasthAI - Chatbot for Health
 
 A beautiful, modern chatbot interface built with React and TypeScript.
 
