@@ -108,7 +108,3 @@ If not set, it defaults to `http://localhost:5050`.
 - TypeScript
 - Vite
 - CSS3 (Modern styling with gradients and animations)
-
----
-
-### **For more information, the presentation can be viewed [here](Public-Health-Chatbot/AI%20in%20Public%20Health.pdf).**
