@@ -1,0 +1,8 @@
+Vaccination schedule (example summary):
+- Birth: BCG, HepB (birth dose), OPV 0
+- 6 weeks: DPT1, OPV1, HepB1
+- 10 weeks: DPT2, OPV2
+- 14 weeks: DPT3, OPV3
+- 9 months: MMR1
+- 15-18 months: MMR2
+Note: Local clinics may have specific updates; check with your PHC.
