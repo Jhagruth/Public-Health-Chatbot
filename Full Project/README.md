@@ -111,4 +111,4 @@ If not set, it defaults to `http://localhost:5050`.
 
 ---
 
-### **For more information, the presentation can be viewed [here](AI%20in%20Public%20Health.pdf).**
+### **For more information, the presentation can be viewed [here](Full%20Project/AI%20in%20Public%20Health.pdf).**
